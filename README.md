@@ -1,2 +1,2 @@
 # Java-Project
-Library Management System
+Library Management System project in java
